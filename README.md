@@ -21,8 +21,8 @@
 Program with obfuscator and batch 2 exe made easier.
 
 ### [+] Installation
- - `https://github.com/DARKNOSY/Bat2ExeXobfuscator/releases/download/Beta/Bat2ExeXobfuscator.zip`
- - `Extract .zip`
+ - <a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator/releases/download/Beta/Bat2ExeXobfuscator.zip">Download</a>
+ - Extract .zip
 
 ### [+] Usage
  - `Launch "Menu.bat"`
