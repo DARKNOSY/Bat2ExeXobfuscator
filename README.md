@@ -32,8 +32,8 @@ Program with obfuscator and batch 2 exe made easier.
 ![screenshot](https://github.com/DARKNOSY/Bat2ExeXobfuscator/blob/main/media/1.png?raw=true)
 
 ### [+] Credits 
-<a href="https://github.com/r00t-3xp10it/PandoraBox">Bat2Exe</a>
-<a href="https://github.com/SkyEmie/batch-obfuscator">Obfuscator</a>
+- `<a href="https://github.com/r00t-3xp10it/PandoraBox">Bat2Exe</a>`
+- `<a href="https://github.com/SkyEmie/batch-obfuscator">Obfuscator</a>`
 
 ### [+] Find me on 
 <a href="mailto:dark.help87@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-dark.help87@yahoo.com-blue?style=for-the-badge&logo=gmail"></a>
