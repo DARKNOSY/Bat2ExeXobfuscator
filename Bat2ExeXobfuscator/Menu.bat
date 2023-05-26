@@ -2,7 +2,7 @@
 cls
 color d
 title Bat2ExeXobfuscator @DARKNOSY
-type menu.py
+type menu.txt
 
 Set /p action="Which option are you choosing?: "
 if '%action%'=='1' goto Bat2ExeXobfuscator
