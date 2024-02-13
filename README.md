@@ -1,6 +1,6 @@
 <h2 align="center"><u>Bat2ExeXobfuscator</u></h2>
 
-![](https://github.com/DARKNOSY/Bat2ExeXobfuscator/blob/main/media/2.png?raw=true)
+![preview](https://github.com/DARKNOSY/Bat2ExeXobfuscator/blob/main/media/1.png?raw=true)
 <p align="center">
     <img src="https://img.shields.io/github/stars/DARKNOSY/Bat2ExeXobfuscator?style=for-the-badge&color=orange">
     <img src="https://img.shields.io/github/forks/DARKNOSY/Bat2ExeXobfuscator?style=for-the-badge&color=purple">
@@ -27,9 +27,6 @@ Program with obfuscator and batch 2 exe made easier.
 ### [+] Usage
  - `Launch "Menu.bat"`
  - `Put the file you want to obfuscate, turn into executables or both into the same folder as the program.`
-
-### [+] Screenshot
-![screenshot](https://github.com/DARKNOSY/Bat2ExeXobfuscator/blob/main/media/1.png?raw=true)
 
 ### [+] Similar
  - <a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
