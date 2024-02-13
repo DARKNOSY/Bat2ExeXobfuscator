@@ -32,7 +32,7 @@ Program with obfuscator and batch 2 exe made easier.
 ![screenshot](https://github.com/DARKNOSY/Bat2ExeXobfuscator/blob/main/media/1.png?raw=true)
 
 ### [+] Similar
- - <a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator">Bat2ExeXobfuscator</a>
+ - <a href="https://github.com/DARKNOSY/Py2ExeXobfuscator">Py2ExeXobfuscator</a>
  - <a href="https://github.com/DARKNOSY/Ps2ExeXobfuscator">Ps2ExeXobfuscator</a>
 
 ### [+] Credits 
