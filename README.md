@@ -21,7 +21,7 @@
 Program with obfuscator and batch 2 exe made easier.
 
 ### [+] Installation
- - <a href="https://github.com/DARKNOSY/Bat2ExeXobfuscator/releases/download/Beta/Bat2ExeXobfuscator.zip">Download</a>
+ - Code > Download as zip
  - Extract .zip
 
 ### [+] Usage
