@@ -21,7 +21,7 @@
 Program with obfuscator and batch 2 exe made easier.
 
 ### [+] Installation
- - Code > Download as zip
+ - Code > Download zip
  - Extract .zip
 
 ### [+] Usage
